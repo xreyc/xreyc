@@ -11,9 +11,7 @@ I build **platforms, frameworks, and the products that run on them**.
 ![PHP/Laravel](https://img.shields.io/badge/PHP%2FLaravel-dev-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![TS/Node.js](https://img.shields.io/badge/TS%2FNode.js-dev-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[Website](https://xreyc.github.io) ·
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/xreyc) ·
-segumareyco@gmail.com
+[Website](https://xreyc.github.io) · segumareyco@gmail.com
 
 </div>
 
