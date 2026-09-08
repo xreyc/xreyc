@@ -4,7 +4,16 @@
 
 I build **platforms, frameworks, and the products that run on them**.
 
-[Website](https://xreyc.github.io) · segumareyco@gmail.com
+![Open Source](https://img.shields.io/badge/Open%20Source-dev-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-dev-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-dev-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-dev-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP/Laravel](https://img.shields.io/badge/PHP%2FLaravel-dev-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TS/Node.js](https://img.shields.io/badge/TS%2FNode.js-dev-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[Website](https://xreyc.github.io) ·
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/xreyc) ·
+segumareyco@gmail.com
 
 </div>
 
